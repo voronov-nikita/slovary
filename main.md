@@ -24,6 +24,7 @@ print(ls[0])
 print(di["first"])
 ```
 
+#
 ## Методы словарей
 
 `dict.clear()` - очищает словарь
@@ -34,5 +35,6 @@ print(di["first"])
 
 `dict.keys()` - возвращает ключи в словаре
 
+Больше команд можно взять [здесь](https://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html).
+
 #
-## 
