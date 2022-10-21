@@ -49,3 +49,9 @@ emails = {'mgu.edu': ['andrei_serov', 'alexander_pushkin', 'elena_belova', 'kiri
        'harvard.edu': ['john.doe', 'mark.zuckerberg', 'helen_hunt'],
        'mail.ru': ['roman.kolosov', 'ilya_gromov', 'masha.yashkina']}
 ```
+
+## Задачи на этот урок
+
+- [x] Изучить словари
+- [ ] попробовать создать словарь
+- [ ] 
