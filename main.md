@@ -1,11 +1,11 @@
 # Типо формулы
 
 $$
-\int{\frac{dx}{a^2+x^2}=\frac{1}{a}\arctan\frac{x}{a}+C  (a\neq0)}
+\int{\frac{dx}{a^2+x^2}=\frac{1}{a}\arctan\frac{x}{a}+C (a\neq0)}
 $$
 
 $$
-\int{\frac{dx}{\sqrt{a^2\pm x^2}}}=\ln|{x+\sqrt{x^2\pm a^2}| + C}(a>0)
+\int{\frac{dx}{\sqrt{a^2\pm x^2}}}=\ln\mid{x+\sqrt{x^2\pm a^2}\mid + C}(a>0)
 $$
 
 # **Словари в Python**
