@@ -5,7 +5,11 @@ $$
 $$
 
 $$
-\int{\frac{dx}{\sqrt{a^2\pm x^2}}}=\ln\mid{x+\sqrt{x^2\pm a^2}\mid + C}(a>0)
+\int{\frac{dx}{\sqrt{a^2\pm x^2}}}=\ln\mid{ x+\sqrt{x^2\pm a^2}\mid + C}(a>0)
+$$
+
+$$
+
 $$
 
 # **Словари в Python**
