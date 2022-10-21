@@ -27,13 +27,13 @@ print(di["first"])
 #
 ## Методы словарей
 
-`dict.clear()` - очищает словарь
+- `dict.clear()` - очищает словарь
 
-`dict.copy()` - копирует словарь
+- `dict.copy()` - копирует словарь
 
-`dict.items()` - возвращает пары (ключ, значение)
+- `dict.items()` - возвращает пары (ключ, значение)
 
-`dict.keys()` - возвращает ключи в словаре
+- `dict.keys()` - возвращает ключи в словаре
 
 Больше команд можно взять [здесь](https://pythonworld.ru/tipy-dannyx-v-python/slovari-dict-funkcii-i-metody-slovarej.html).
 
