@@ -3,6 +3,7 @@
 $$
 \int{\frac{dx}{a^2+x^2}=\frac{1}{a}\arctan\frac{x}{a}+C  (a\neq0)}
 $$
+
 $$
 \int{\frac{dx}{\sqrt{a^2\pm x^2}}}=\ln|{x+\sqrt{x^2\pm a^2}| + C}(a>0)
 $$
@@ -64,4 +65,4 @@ emails = {'mgu.edu': ['andrei_serov', 'alexander_pushkin', 'elena_belova', 'kiri
 - [x] Изучить словари
 - [ ] Попробовать создать словарь
 - [x] Определить возможность использования словарей в реальной жизни
-- [ ] Решить задачи
+- [xS] Решить задачи
